@@ -1,0 +1,32 @@
+site_name: saveG
+theme:
+  name: material
+  palette:
+    scheme: slate
+  features:
+    - navigation.expand
+    - navigation.sections
+    - navigation.instant
+    - content.code.copy
+
+nav:
+  - Informatii Principale:
+      - Acasa: index.md
+      - Regulament: regulament.md
+      - Cum intri pe server: cum-intri.md
+      - FAQ: faq.md
+      - Store: store.md
+
+  - Sisteme Generale:
+      - Garaje: garaje.md
+      - Airsoft: airsoft.md
+      - Targ Auto: targ-auto.md
+      - Telefon: telefon.md
+      - Joburi: joburi.md
+      - Inventar: inventar.md
+      - Administratie: administratie.md
+
+  - Altele:
+      - Despre saveG: despre.md
+      - Contact: contact.md
+      - Update-uri: update-uri.md
